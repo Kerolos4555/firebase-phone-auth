@@ -1,4 +1,4 @@
-# firebase_phone_auth
+# 🔒 firebase_phone_auth
 
 A lightweight Flutter application showcasing user authentication using phone numbers via Firebase.
 
@@ -9,7 +9,7 @@ This project was built as a practical experiment to explore **Firebase Phone Aut
 ## 🛠️ Tech Stack
 
 - Flutter
-- 🔒 Firebase Authentication 🔒
+- Firebase Authentication
 - Bloc (Cubit) – For state management
 
 ## 🔒 Important Note
